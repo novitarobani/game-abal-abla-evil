@@ -1,0 +1,6 @@
+{
+  "name": "Horror Game Concept Planner",
+  "description": "Perancang konsep game survival horror interaktif bergaya klasik Resident Evil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
